@@ -45,6 +45,7 @@ module swap_three_numbers (
         c_out = a_in; // Swap: c = a
     end
 endmodule
+![WhatsApp Image 2024-10-17 at 19 34 06_ad08f29e](https://github.com/user-attachments/assets/4d26c062-45e2-4343-8157-1021f6dbad6a)
 
 
 Testbench for Swapping Three Numbers:
